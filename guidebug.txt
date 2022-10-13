@@ -1,0 +1,1 @@
+Debug: QNetworkReplyHttpImplPrivate::_q_startOperation was called more than once QUrl("http://www.itascacg.com/ftp_pub/pfc/v600/pfc600.html")
